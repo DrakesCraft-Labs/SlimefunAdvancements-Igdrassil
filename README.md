@@ -1,23 +1,62 @@
-# SlimefunAdvancements 粘液科技进度
+<div align="center">
 
-这是一个 Slimefun 附属，可以给 Slimefun 添加一个可配置的进度系统。
+  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/SlimefunAdvancements-Igdrassil/main/banner.svg" alt="SlimefunAdvancements-Igdrassil Banner" width="920" />
 
-需要 Java 16+（Paper 1.21.1 构建要求），请确认服务端 JVM 版本满足要求。
+# ⚡ SlimefunAdvancements-Igdrassil
 
-注意：Vanilla 进度注入逻辑需在主线程调用。
+**SLIMEFUN4 ADDON · DRAKES EDITION**
 
-## 下载
+<p>
+  <a href="https://github.com/DrakesCraft-Labs/SlimefunAdvancements-Igdrassil"><img src="https://img.shields.io/badge/GitHub-SlimefunAdvancements-Igdrassil-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Slimefun4-Drake_Edition-22C55E?style=for-the-badge&logo=curseforge&logoColor=white" alt="Slimefun4"/>
+  <img src="https://img.shields.io/badge/Paper-1.21.11-38BDF8?style=for-the-badge&logo=minecraft&logoColor=white" alt="Paper 1.21.11"/>
+  <img src="https://img.shields.io/badge/Java-21-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+</p>
 
-[![构建状态（点击前往下载）](https://builds.guizhanss.com/api/badge/SlimefunGuguProject/SlimefunAdvancements/main/latest)](https://builds.guizhanss.com/SlimefunGuguProject/SlimefunAdvancements/main)
+</div>
 
-## 配置
+---
 
-请查看[Wiki](https://slimefun-addons-wiki.guizhanss.cn/slimefun-advancements)
+## 📖 Descripción Detallada
 
-## 权限
+**SlimefunAdvancements-Igdrassil** es una expansión modular del ecosistema **DrakesCraft Labs** para servidores Minecraft **Paper / Purpur 1.21.11**.
 
-`sfa.command.<command name>`: 允许执行对应的指令
+Addon de Slimefun mantenido y optimizado por DrakesCraft Labs para Paper 1.21.11.
 
-## 自定义 (开发者手册)
+Todo el contenido, recetas y maquinaria se desbloquean e investigan directamente desde la **Guía de Slimefun (`/sf guide`)** sin necesidad de comandos especiales.
 
-请参阅 [api.md](./api.md)
+---
+
+## ⚙️ Características y Sistemas Principales
+
+* 🚀 **Rendimiento Optimizado**: Totalmente preparado para Java 21 sobre Paper 1.21.11, sin pausas de Garbage Collector ni telemetría externa.
+* 🛡️ **Seguridad e Integridad**: Transacciones atómicas de almacenamiento y protección estricta de inventarios.
+* 🎮 **Integración Total**: Compatible con Slimefun4-Drake, redes de logística NetworksV6, maquinaria pesada y economía global.
+
+---
+
+## 📋 Compatibilidad Técnica
+
+| Parámetro | Requisito |
+|---|---|
+| **Servidor** | Paper / Purpur / Folia **1.21.11** |
+| **Java** | **Java 21** LTS |
+| **Core** | [Slimefun4-Drake](https://github.com/DrakesCraft-Labs/Slimefun4-Drake) |
+| **Lado** | 100% Servidor (Server-side) |
+
+---
+
+## 📥 Instalación
+
+1. Descarga el `.jar` de la última versión desde la pestaña Releases o Modrinth.
+2. Colócalo en la carpeta `plugins/` del servidor junto a `Slimefun4-Drake.jar`.
+3. Inicia o reinicia el servidor.
+
+---
+
+<div align="center">
+
+**Desarrollado y Mantenido por [DrakesCraft Labs](https://github.com/DrakesCraft-Labs)**  
+Licencia **GPL-3.0-only** / **MIT**.
+
+</div>
